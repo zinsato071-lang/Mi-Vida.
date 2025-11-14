@@ -97,13 +97,14 @@ Gracias por dos años que han sido los mejores capítulos de mi vida, y por todo
       <p style="font-size:14px;opacity:0.85">Añade aquí tus fotos reemplazando las rutas dentro de /images</p>
 
       <div class="gallery" id="gallery">
-    <img src="images/taekwondo.jpg" alt="Taekwondo" data-full="images/tkw.jpg">
-    <img src="images/pichilemu.jpg" alt="Pichilemu" data-full="images/playa.jpg">
-    <img src="images/chocolate.jpg" alt="Casa de chocolate" data-full="images/cajon.jpg">
+    <img src="images/twk.jpg" alt="Taekwondo" data-full="images/twk.jpg">
+    <img src="images/playa.jpg" alt="Playa" data-full="images/playa.jpg">
+    <img src="images/playa2.jpg" alt="Playa 2" data-full="images/playa2.jpg">
     <img src="images/baile.jpg" alt="Baile nacional" data-full="images/baile.jpg">
-    <img src="images/gala.jpg" alt="Gala" data-full="images/gala.jpg">
-    <img src="images/amigos.jpg" alt="Cuando solo éramos amigos" data-full="images/amigos.png">
+    <img src="images/cajon.jpg" alt="Cajón del Maipo" data-full="images/cajon.jpg">
+    <img src="images/amigos.png" alt="Cuando éramos amigos" data-full="images/amigos.png">
 </div>
+
 
     </div>
 
