@@ -97,12 +97,7 @@ Gracias por dos años que han sido los mejores capítulos de mi vida, y por todo
       <p style="font-size:14px;opacity:0.85">Añade aquí tus fotos reemplazando las rutas dentro de /images</p>
 
       <div class="gallery" id="gallery">
-    <img src="images/twk.jpg" alt="Taekwondo" data-full="images/twk.jpg">
-    <img src="images/playa.jpg" alt="Playa" data-full="images/playa.jpg">
-    <img src="images/playa2.jpg" alt="Playa 2" data-full="images/playa2.jpg">
-    <img src="images/baile.jpg" alt="Baile nacional" data-full="images/baile.jpg">
-    <img src="images/cajon.jpg" alt="Cajón del Maipo" data-full="images/cajon.jpg">
-    <img src="images/amigos.png" alt="Cuando éramos amigos" data-full="images/https://github.com/zinsato071-lang/Mi-Vida./blob/45bd70e617dacf4dfcc5ec1478a8f841700dcfa3/amigos.png">
+    <img src= "amigos.png
 </div>
 
 
